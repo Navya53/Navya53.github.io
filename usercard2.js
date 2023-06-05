@@ -1,12 +1,12 @@
 let Viratinfo{
     imgurl: "//www.suntiros.com/wp-content/uploads/2017/09/Virat-Kohli-HD-Photos-Gallery.jpg",
     name: "Virat Kohli",
-    Description: Indian Cricketer
+    Description: "Indian Cricketer"
 }
 let Viratyounginfo{
     imgurl: "http://1.bp.blogspot.com/-iV6xrJt2vpY/UaB6BMlYp6I/AAAAAAAAJQI/IbngTaQmDhM/s1600/cricketer-virat-kohli-childhood-pictures-childhood-images.blogspot.com-(2).jpg",
     name: "Virat Kohli",
-    Description: Indian Cricketer
+    Description: "Indian Cricketer"
 }
 let isViratinfo=true;
 let displayobject;
