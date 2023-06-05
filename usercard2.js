@@ -21,4 +21,5 @@ let flipdata=function(){
     }
     document.getElemnentById("Virat-img").src = displayobject.imgurl;
     document.getElemnentById("Virat-name").innerHTML = displayobject.name;
-}   document.getElemnentById("Virat-description").innerHTML = displayobject.description;
+    document.getElemnentById("Virat-description").innerHTML = displayobject.description;
+}
