@@ -4,7 +4,7 @@ let Viratinfo={
     description: "Indian Cricketer"
 }
 let Viratyounginfo={
-    imgurl: "http://1.bp.blogspot.com/-iV6xrJt2vpY/UaB6BMlYp6I/AAAAAAAAJQI/IbngTaQmDhM/s1600/cricketer-virat-kohli-childhood-pictures-childhood-images.blogspot.com-(2).jpg",
+    imgurl: "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/virat-kohli-in-his-childhood-201605-1464674807.jpg",
     name: "Virat Kohli",
     description: "Indian Cricketer"
 }
