@@ -6,7 +6,7 @@ let Viratinfo = {
   
   let Viratyounginfo = {
     imgurl: "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/virat-kohli-in-his-childhood-201605-1464674807.jpg",
-    name: "Virat Kohli",
+    name: "Virat",
     description: "Indian Cricketer"
   };
   
