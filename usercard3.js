@@ -4,23 +4,14 @@ let Viratinfo = {
     description: "Indian Cricketer"
   };
   
-  let Viratyounginfo = {
-    imgurl: "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/virat-kohli-in-his-childhood-201605-1464674807.jpg",
-    name: "Virat",
-    description: "Indian Cricketer"
-  };
   
-  let isViratinfo = true;
+  
   let displayobject;
   
-  let flipdata = function() {
-    if (isViratinfo == true) {
-      displayobject = Viratyounginfo;
-      isViratinfo = false;
-    } else {
-      displayobject = Viratinfo;
-      isViratinfo = true;
-    }
+  let getRandomUser = function() {
+    fetch("https://randomuser.me/api")
+    .then(response => response.json())
+    .then(data=>console.log(data))
     document.getElementById("Virat-img").src = displayobject.imgurl;
     document.getElementById("Virat-name").innerHTML = displayobject.name;
     document.getElementById("Virat-description").innerHTML = displayobject.description;
