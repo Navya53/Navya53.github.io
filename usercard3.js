@@ -8,7 +8,7 @@ let Viratinfo = {
   
   let displayobject={
     name: "",
-    imageurl:"",
+    imgurl:"",
     description:""
   };
   
