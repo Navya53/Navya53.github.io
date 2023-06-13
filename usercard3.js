@@ -24,4 +24,4 @@ let Viratinfo = {
         document.getElementById("Virat-description").innerHTML = displayobject.description;
   })
     
-  };
+  }
